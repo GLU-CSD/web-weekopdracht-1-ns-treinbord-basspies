@@ -22,9 +22,79 @@
     border: 2px solid #000;
 }
 
-#right{
+#right{ 
     width:128px;
     height: 335px;
     background-color: rgb(0, 0, 106);
     border: 2px solid #000;
+}
+
+#spoornummer{
+    width: 96px;
+    height: 96px;
+    font-size: 48px;
+    background-color: rgb(255, 255, 255);
+    /* border: 2px solid #000; */
+    margin-top: 30px;
+    margin-left: 13.5px;
+}
+
+#bluelittleblock {
+    width: 20px;
+    height: 20px;
+    font-size: 48px;
+    display: flex;
+    background-color:  rgb(0, 0, 106);
+    /* border: 2px solid #000; */
+
+    margin-top: 30px; /* Move it down */
+    margin-left: 0px; /* Move it right */
+}
+
+
+#spoor18{
+    font-size: 70px;
+    margin-top: 15px;
+    margin-left: 0px;
+}
+
+
+#spoorB{
+    font-size: 30px;
+    margin-top: -75px;
+    margin-left: 75px;
+}
+
+#treingegevens{
+width: 485px;
+height: 275px;
+margin-top: -10px;
+margin-left: 0px;
+font-size: 20px;
+background-color: rgb(255, 255, 255);
+border: 2px solid #000;
+}
+
+#digitaletijd{
+    font-size: 48px;
+    width: 245px;
+    height: 40px;
+    margin-top: -278px;
+    margin-left: 1px;
+    border: 2px solid #000;
+    background-color: rgb(255, 255, 255);
+}
+
+#volgendetrein{
+    width: 485px;
+    height: 25px;
+    margin-top: 215px;
+    margin-left: 2px;
+    background-color: rgb(40, 31, 210);
+
+}
+
+#middentext{
+    margin-top: 0px;
+    margin-left: 1px;
 }
